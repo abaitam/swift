@@ -191,7 +191,7 @@ if !allowedEntry {
     print("ACCESS DENIED")
 }
 
-//: ## Logical AND
+//: ### AND
 /*:
 The logical AND operator (a && b) creates logical expressions where both values must be true for the 
 overall expression to be true
@@ -204,7 +204,7 @@ if enteredDoorCode && passedRetinaScan {
     print("ACCESS DENIED")
 }
 
-//: ## Logical OR
+//: ### Logical OR
 /*:
 The logical OR operator (a || b) is an infix operator made from two adjacent pipe characters. Use to 
 create logical expressions in which only one of the two has to be true for the overall expression to be
@@ -218,7 +218,7 @@ if hasDoorKey || knowsOverridePassword {
     print("ACCESS DENIED")
 }
 
-//: ## Combining Logical Operators
+//: ### Combining Logical Operators
 /*:
 You can combine multiple logical operators to create longer compound expressions
 */

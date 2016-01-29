@@ -1,5 +1,3 @@
-//: Playground - noun: a place where people can play
-
 import UIKit
 
 //: # Basic Operators
@@ -15,7 +13,7 @@ import UIKit
 */
 
 
-//: # Terminology
+//: ## Terminology
 /*:
 - Operators are unary, binary and ternary:
 * Unary - operate on a single target prefix (!b) or postfix (i++)
@@ -204,7 +202,7 @@ if enteredDoorCode && passedRetinaScan {
     print("ACCESS DENIED")
 }
 
-//: ### Logical OR
+//: ### OR
 /*:
 The logical OR operator (a || b) is an infix operator made from two adjacent pipe characters. Use to 
 create logical expressions in which only one of the two has to be true for the overall expression to be

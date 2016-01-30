@@ -4,4 +4,7 @@
    <FileRef
       location = "group:languageguide/2BasicOperators.playground">
    </FileRef>
+   <FileRef
+      location = "group:languageguide/3StringsCharacters.playground">
+   </FileRef>
 </Workspace>
